@@ -27,4 +27,15 @@ Le fichier functions.php
 Le custom post type
 Le custom taxonomie
 
+## Documentation officielle :
+### Codex : 
+https://codex.wordpress.org/fr:Accueil
+### Développer : 
+https://developer.wordpress.org
+### Générateur code : 
+https://generatewp.com/
+### Resource divers : 
+http://www.geekpress.fr/ ,
+http://gutenberg.news/ , 
+http://wpmail.me/
 
