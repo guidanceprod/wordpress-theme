@@ -15,17 +15,17 @@ il s’agit de comprendre et d’intervenir sur un thème WordPress existant ou 
 ## Plan :
 
 ## -	Analyse d’un thème :
-Les fichiers Template (Template file, Template page)
-La hiérarchie des modèles
+* Les fichiers Template (Template file, Template page)
+* La hiérarchie des modèles
 ## -	Les types de contenu et taxonomie :
 Notion de post
-Les marqueurs de modèles
-La boucle WordPress
-La requête Query
+* Les marqueurs de modèles
+* La boucle WordPress
+* La requête Query
 ## -	Développement des fonctions d’un thème :
-Le fichier functions.php
-Le custom post type
-Le custom taxonomie
+* Le fichier functions.php
+* Le custom post type
+* Le custom taxonomie
 
 ## Documentation officielle :
 ### Codex : 
@@ -35,7 +35,7 @@ https://developer.wordpress.org
 ### Générateur code : 
 https://generatewp.com/
 ### Resource divers : 
-http://www.geekpress.fr/ ,
-http://gutenberg.news/ , 
-http://wpmail.me/
+* http://www.geekpress.fr/ ,
+* http://gutenberg.news/ , 
+* http://wpmail.me/
 
