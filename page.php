@@ -1,11 +1,8 @@
 <?php
 /**
- * The template for displaying all pages
+ * Template modèle pour l'affichage de page
  *
- * This is the template that displays all pages by default.
- * Please note that this is the WordPress construct of pages
- * and that other 'pages' on your WordPress site may use a
- * different template.
+ * Ceci est le modèle qui affiche toutes les pages par défaut.
  *
  * @link https://developer.wordpress.org/themes/basics/template-hierarchy/
  *
