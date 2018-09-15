@@ -6,7 +6,7 @@
  * et l'un des deux fichiers requis pour un thème (l'autre étant style.css).
  * Il est utilisé pour afficher une page lorsque rien de plus spécifique ne correspond à une requête.
  *
- * @link https://www.guidanceprod/theme-master/analyse-dun-theme/hierarchie-des-modeles/
+ * @link https://developer.wordpress.org/themes/basics/template-hierarchy/
  *
  * @package _tm
  */
