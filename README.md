@@ -38,6 +38,7 @@ https://generatewp.com/
 https://www.guidanceprod.com/theme-master/
 ### Resource divers : 
 * http://www.geekpress.fr/ ,
+* https://code.tutsplus.com/series/mastering-wp_query--cms-818 ,
 * http://gutenberg.news/ , 
 * http://wpmail.me/
 
