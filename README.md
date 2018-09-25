@@ -26,6 +26,7 @@ Notion de post
 * Le fichier functions.php
 * Le custom post type
 * Le custom taxonomie
+* la requete wp_query
 
 ## Documentation officielle :
 ### Codex : 
