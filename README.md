@@ -1,4 +1,4 @@
-# wis-wordpress-theme
+# wordpress-theme
 Developpement d'un theme personnel wordpress
 
 ## Objectifs et Compétences :
