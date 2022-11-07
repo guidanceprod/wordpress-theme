@@ -35,7 +35,7 @@ https://codex.wordpress.org/fr:Accueil
 https://developer.wordpress.org
 ### Générateur code : 
 https://generatewp.com/
-### Documentation Theme Wis
+### Documentation Theme
 https://www.guidanceprod.com/theme-master/
 ### Resource divers : 
 * http://www.geekpress.fr/ ,
